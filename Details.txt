@@ -1,0 +1,11 @@
+Wheel : red;
+Wheel : blue;
+Wheel : red;
+Wheel : blue;
+Wheel : green;
+Wheel : blue;
+Wheel : green;
+Telega : red;
+Telega : blue;
+Telega : green;
+Telega : blue;
